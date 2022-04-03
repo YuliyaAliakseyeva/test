@@ -44,7 +44,7 @@ var numFloat : Float = 104.3
 //пустая константа типа Double
 var numDouble : Double
 //дробное число типа Double с неявным указанием типа
-var someNumber = 8.36
+var someNumber = 8.371
 
 //арифметические операторы (Листинсг 5.8-5.12)
 //целочисленные переменные
